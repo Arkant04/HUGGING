@@ -15,4 +15,5 @@ output = query({
 	"inputs": "I love gambling",
 })
 
+
 print(output)
